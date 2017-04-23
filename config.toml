@@ -1,0 +1,4 @@
+baseurl = "http://infecte.fr/"
+languageCode = "fr"
+title = "Les papiers de la fermentation"
+theme = "infecte"
