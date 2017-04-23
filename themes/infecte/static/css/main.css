@@ -20,6 +20,11 @@ h1 {
     padding:10px;
 }
 
+h1 a {
+    color:black;
+    text-decoration:none;
+}
+
 #footer {
     padding:10px;
     border-top:2px solid black;
