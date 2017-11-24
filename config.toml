@@ -1,4 +1,5 @@
-baseurl = "http://passionfermentation.fr/"
+baseurl = "https://passionfermentation.fr/"
 languageCode = "fr"
 title = "Passion Fermentation"
 theme = "infecte"
+disableLiveReload = true
