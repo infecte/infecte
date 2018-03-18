@@ -1,6 +1,8 @@
 +++
 date = "2017-10-30T20:12:57+02:00"
 title = "Cidre dans le Calvaldos, fin octobre 2017"
+image = "cidre/IMG_8265.JPG"
+span = 6
 
 +++
 
