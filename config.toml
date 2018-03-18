@@ -1,5 +1,5 @@
-baseurl = "https://passionfermentation.fr/"
+baseurl = "https://levuressauvages.fr/"
 languageCode = "fr"
-title = "Passion Fermentation"
+title = "Levures sauvages"
 theme = "infecte"
 disableLiveReload = true
