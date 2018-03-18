@@ -1,6 +1,7 @@
 +++
 date = "2017-09-26T22:49:27+02:00"
 title = "Purée de potimarron + tartines champignons et chips de Kale"
+image = "/20170926.jpg"
 
 +++
 

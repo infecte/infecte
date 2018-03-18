@@ -6,6 +6,8 @@ date = "2016-12-23"
 categories = [
   "biere"
 ]
+span = 6
+
 +++
 
 ## Trip 1: Old-style & Fuller
